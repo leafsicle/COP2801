@@ -1,0 +1,5 @@
+variables day1-day5, totalHours, hourlyRate, invoiceTotal, clientName, and ownerName.
+1. Ensure there are at day5 is not equal to 0, if it is greater than zero then an invoice can be generated.
+2. Once all 5 days have values add them together. once you have the value for totalHours multiply that value
+	by hourlyRate and assign it to the variable totalCost. 
+3. Print to the user the ownerName, clientName, hourlyRate, totalHours, and the invoiceTotal

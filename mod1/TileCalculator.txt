@@ -1,0 +1,5 @@
+variables: length, width, area, costPerSqFoot, and totalCost
+1. Start by getting the values for length and width. 
+2. Once you multiply those values together you will have the value for area.
+3. Multiply that value by the costPerSqFoot variable to get the totalCost.
+4. Print out the area and the totalCost.

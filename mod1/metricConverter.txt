@@ -1,0 +1,7 @@
+variables: inputMiles, inputKilometers, outputMiles, outputKilometers
+constants: mileToKilometer, kilometerToMile
+1. Prompt the user to enter the number of miles and store it as inputMiles. 
+2. Mulitply the inputMiles by the mileToKilometer constant to get the outputKilometers. 
+3. Prompt the user to enter the number of kilometersand store it as inputKilometers.
+4. Multiply the inputKilometers by the kilometerToMile constant to get the outputMiles.
+5. print out both output variables along with the input variables

@@ -1,0 +1,6 @@
+variables will be: lbsOfRecycling, lbsPerDay, and programLength
+
+1. To start off we need to get user input for the pounds of recycling that are required to meet the overall goal.
+2. Once the lbsOfRecycling variable has been set we can see determine how long the program should run for as programLength.
+3. Once we have these two variables set we can divide the lbsOfRecycling by the programLength to get the total of lbsPerDay.
+
